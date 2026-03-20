@@ -16,7 +16,7 @@ const sections = [
   {
     img: 'https://raw.githubusercontent.com/kidiee558/ZmalowanyKadr/main/autorka3.jpg',
     title: 'Emocje',
-    desc: <>Każda sesja to dla mnie nowa <span className="font-['MonteCarlo'] text-3xl md:text-4xl bloom-white lowercase">historia</span> do opowiedzenia. Pozwól mi uchwycić prawdziwe emocje i naturalne piękno, które zostaną z Tobą na zawsze.</>
+    desc: <>Każda sesja to dla mnie nowa historia do opowiedzenia. Pozwól mi uchwycić prawdziwe emocje i naturalne piękno, które zostaną z Tobą na zawsze.</>
   }
 ];
 
